@@ -87,3 +87,5 @@ function makeSound(key){
             break;
     }
 }
+
+// JavaScript
